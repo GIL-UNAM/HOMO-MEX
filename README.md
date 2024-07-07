@@ -133,7 +133,14 @@ Check out the task site <a href="_blank" target="https://sites.google.com/view/h
 
 Citing the HOMO-MEX 2025 shared task.
 <pre>
-pending revision
+@article{HomoMex24,
+  author = {Helena G{'o}mez-Adorno and Gemma Bel-Enguix and Hiran Calvo and Juan V{'a}squez and Scott Thomas Andersen and Sergio Ojeda-Trueba and Tania Alc{'a}ntara and Miguel Soto and Cesar Macias},
+  title = {Overview of HOMO-MEX at Iberlef 2024: Hate Speech Detection Towards the Mexican Spanish Speaking LGBT+ Population},
+  journal = {Natural Language Processing},
+  volume = {73},
+  year = {2024},
+  issn={1989-7553}
+}
 </pre>
 
 Citing the HOMO-MEX Twitter dataset
