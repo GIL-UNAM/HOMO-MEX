@@ -131,7 +131,7 @@ Check out the task site <a href="_blank" target="https://sites.google.com/view/h
 
 <h2 align="center"> Citing this work </h2>
 
-Citing the HOMO-MEX 2025 shared task.
+Citing the HOMO-MEX 2024 shared task.
 <pre>
 @article{HomoMex24,
   author = {Helena G{'o}mez-Adorno and Gemma Bel-Enguix and Hiran Calvo and Juan V{'a}squez and Scott Thomas Andersen and Sergio Ojeda-Trueba and Tania Alc{'a}ntara and Miguel Soto and Cesar Macias},
